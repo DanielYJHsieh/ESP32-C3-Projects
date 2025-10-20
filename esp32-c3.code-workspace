@@ -2,6 +2,9 @@
     "folders": [
         {
             "path": "."
+        },
+        {
+            "path": "../epaper_display/epaper_display"
         }
     ]
 }
